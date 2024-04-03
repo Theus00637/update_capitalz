@@ -1,0 +1,11 @@
+{   
+	"Version": "1.00",
+	"FileList":"https://github.com/Theus00637/update_capitalz/blob/main/filelist.json",
+	"FileDelete":"https://github.com/Theus00637/update_capitalz/blob/main/filedelete.json",
+	"DownloadUpdate": "",		
+	"News": [
+		"https://icarogame.github.io/apocalypseupdate/News/0.png",
+		"https://icarogame.github.io/apocalypseupdate/News/1.png",
+		"https://icarogame.github.io/apocalypseupdate/News/2.png"
+	]			
+}
