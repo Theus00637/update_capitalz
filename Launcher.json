@@ -2,7 +2,7 @@
 	"Version": "1.00",
 	"FileList":"https://theus00637.github.io/update_capitalz/filelist.json",
 	"FileDelete":"https://theus00637.github.io/update_capitalz/filedelete.json",
-	"DownloadUpdate": "",		
+	"DownloadUpdate": "https://www.dayzapocalypse.com/update/dayz/",		
 	"News": [
 		"https://icarogame.github.io/apocalypseupdate/News/0.png",
 		"https://icarogame.github.io/apocalypseupdate/News/1.png",
